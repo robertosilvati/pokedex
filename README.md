@@ -27,15 +27,32 @@ Bem-vindo ao meu projeto Pokedex Web! Esta aplicação web simples permite que o
 
 ## Como Usar
 
-1. Clone o repositório.
-2. Abra o arquivo `index.html` em um navegador da web.
+1. **Clone o Repositório:**
+
+   Para começar, faça o clone deste repositório em seu computador. Abra o terminal (ou prompt de comando) no diretório onde você deseja armazenar o projeto e execute o seguinte comando:
+
+   - **Windows:**
+     ```bash
+     git clone https://github.com/robertosilvati/pokedex.git
+     ```
+
+   - **Mac/Linux:**
+     ```bash
+     git clone https://github.com/robertosilvati/pokedex.git
+     ```
+
+2. **Abra o Projeto:**
+
+   Navegue até o diretório do projeto:
+   ```bash
+   cd pokedex
+3. **Abra no Navegador:**
+
+Abra o arquivo `index.html` em seu navegador favorito para explorar a Pokedex.
 
 Sinta-se à vontade para explorar e aprimorar a aplicação conforme necessário. Contribuições são bem-vindas!
 
-## Créditos
 
-- [PokeAPI](https://pokeapi.co/): API utilizada para obter dados dos Pokémon.
+## **Licença**
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este é um projeto de código aberto licenciado sob a Licença MIT. Você é livre para usar, modificar e distribuir este projeto conforme os termos da licença.
